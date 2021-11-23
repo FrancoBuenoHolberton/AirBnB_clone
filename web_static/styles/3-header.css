@@ -4,8 +4,10 @@ header{
     width: 100%;
     border-bottom: 1px #CCCCCC solid;
     align-items: center;
-    background-repeat: no-repeat;
-    background-image: url("../images/logo.png");
-    background-position-y: center;
-    background-repeat: no-repeat;
+}
+.logo {
+	padding-left: 20px;
+	background: url("../images/logo.png") no-repeat center;
+	width: 142px;
+	height: 60px;
 }
